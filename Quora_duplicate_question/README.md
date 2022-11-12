@@ -27,6 +27,7 @@
 
 **tf-idf-preprocessing-random-forest-accuracy-82.ipynb**
 
-1. stop word removed 
-2. 81.9 %
+1. stop words removed 
+2. 81.9 % **(BEST)**
+
 word2vec is coming soon with ANN,CNN, RNN and LSTM model.......................
