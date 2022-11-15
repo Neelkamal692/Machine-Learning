@@ -32,11 +32,13 @@
 
 **advanced-feature-engineering-with-tf-idf.ipynb**
 
-1. Advanced feature engineering 
-  a. common_word_count
-  b. common_stop_word_count
-  c. common_token_count
-  d. min,max length of document etc.
+1. Created some new features like 
+
+  1. common_word_count
+  2. common_stop_word_count
+  3. common_token_count
+  4. min,max length of document etc.
+  
 2. Use of fuzzywuzzy to create some additional features
 3. Accuracy 83.3% **(BEST)**
 
