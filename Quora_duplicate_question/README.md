@@ -28,6 +28,18 @@
 **tf-idf-preprocessing-random-forest-accuracy-82.ipynb**
 
 1. stop words removed 
-2. 81.9 % **(BEST)**
+2. 81.9 % 
+
+**advanced-feature-engineering-with-tf-idf.ipynb**
+
+1. Created some new features like 
+
+  1. common_word_count
+  2. common_stop_word_count
+  3. common_token_count
+  4. min,max length of document etc.
+  
+2. Use of fuzzywuzzy to create some additional features
+3. Accuracy 83.3% **(BEST)**
 
 word2vec is coming soon with ANN,CNN, RNN and LSTM model.......................
