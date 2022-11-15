@@ -30,6 +30,11 @@
 1. stop words removed 
 2. 81.9 % 
 
+**word2vec-model.ipynb**
+
+1. Word2Vec with Random forest 79 %
+2. Word2Vec with ANN 80%
+
 **advanced-feature-engineering-with-tf-idf.ipynb**
 
 1. Created some new features like 
@@ -42,4 +47,3 @@
 2. Use of fuzzywuzzy to create some additional features
 3. Accuracy 83.3% **(BEST)**
 
-word2vec is coming soon with ANN,CNN, RNN and LSTM model.......................
